@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-ashraf-bundle",
+        "en": "tw-ashraf-bundle"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "ashraf@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/ashrafreda/tw-ashraf-bundle",
+    "components": []
+}
